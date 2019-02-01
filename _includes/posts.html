@@ -1,0 +1,12 @@
+{% comment %}
+Show a list of posts from the given collection.
+{% endcomment %}
+
+<ul>
+{% for post in include.items %}
+	<li>
+		<h3><a href="{{ post.url }}">{{ post.date | date: "%Y/%m/%d" }} - {{ post.title }}</a></h3>
+		<p>{{ post.excerpt }}</p>
+	</li>
+{% endfor %}
+</ul>

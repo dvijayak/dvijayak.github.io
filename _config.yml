@@ -1,1 +1,17 @@
+title: first principles
+description: reconstructive deconstruction
+name: Daniel Vijayakumar
+
 theme: jekyll-theme-modernist
+layout: default
+
+# Content & Editing
+markdown: kramdown
+excerpt_separator: <!--excerpt-->
+collections:
+  cis3000:
+    output: true
+    permalink: /:collection/:name
+
+plugins:
+  - jekyll-sitemap
