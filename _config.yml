@@ -6,6 +6,7 @@ theme: jekyll-theme-modernist
 layout: default
 
 # Content & Editing
+exclude: ["*.sublime-*"]
 markdown: kramdown
 excerpt_separator: <!--excerpt-->
 collections:
