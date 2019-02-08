@@ -4,7 +4,7 @@ date: 2010-11-04
 title: "Working away from work: Telecommuting"
 excerpt: "Most workers dream of being able to make their dough from the comfort and convenience of their homes. Why do some pursue this dream at all costs yet the vast majority settle with the status quo?"
 original_url: 2010/11/04/working-away-from-work-telecommuting
-categories: [work, telecommuting]
+tags: [work, telecommuting]
 ---
 
 {% include_relative preamble.md url=page.original_url %}

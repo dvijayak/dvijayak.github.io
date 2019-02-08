@@ -4,7 +4,7 @@ date: 2010-09-27
 title: "Privacy: a birthright worth compromising?"
 excerpt: A balanced evaluation of a modern gift.
 original_url: 2010/09/27/privacy-a-birthright-worth-compromising
-categories: [privacy]
+tags: [privacy]
 ---
 
 {% include_relative preamble.md url=page.original_url %}

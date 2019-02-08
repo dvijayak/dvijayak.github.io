@@ -4,7 +4,7 @@ date: 2010-10-07
 title: "Suppression and Expression: Government and the Individual"
 excerpt: Reflections on freedom of expression and piracy in light of the COICA controversy of 2010.
 original_url: 2010/10/07/suppression-and-expression_government-and-the-individual
-categories: [censorship]
+tags: [censorship]
 ---
 
 {% include_relative preamble.md url=page.original_url %}

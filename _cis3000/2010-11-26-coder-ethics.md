@@ -4,7 +4,7 @@ date: 2010-11-26
 title: "Professional Ethics: A Philosophical Analysis for Computer Professionals"
 excerpt: "The a/im/moral programmer."
 original_url: 2010/11/26/professional-ethics-a-philosophical-analysis-for-computer-professionals
-categories: [ethics, morality]
+tags: [ethics, morality]
 ---
 
 {% include_relative preamble.md url=page.original_url %}

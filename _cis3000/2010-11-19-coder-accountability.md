@@ -4,7 +4,7 @@ date: 2010-11-19
 title: "Accountability: A Message To All Software Engineers"
 excerpt: Is it time for Software Engineers to stand under their own Arches?
 original_url: 2010/11/19/accountability-a-message-to-all-software-engineers
-categories: [accountability]
+tags: [accountability]
 ---
 
 {% include_relative preamble.md url=page.original_url %}
