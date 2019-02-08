@@ -1,1 +1,3 @@
 > This article is a part of a [series](/cis3000) of blog posts that served as an assignment for the course titled **Social Implications of Computing** ([CIS*3000](https://www.uoguelph.ca/registrar/calendars/undergraduate/2010-2011/courses/cis3000.shtml)) during [my undergraduate studies](https://www.uoguelph.ca/registrar/calendars/undergraduate/2010-2011/c10/c10bcomp.shtml) at the [University of Guelph](https://uoguelph.ca). It was originally published on a [free Wordpress.com site](https://danielvijayakumar.wordpress.com/{{ include.url }}) I had created for the course.
+
+--------------------------
