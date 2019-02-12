@@ -32,4 +32,5 @@ My dry bones will join the ranks of those like him who patiently await the retur
 > Penned in pensive, poignant agony on the night of the burial of [Ian Henry Pervez](https://www.macleans.ca/society/ian-henrey-pervez-1992-2016/). May [you](https://www.youtube.com/watch?v=CXSLqCQUzdA) rest in peace within Abraham's Bosom until you are awakened again, my Brother.
 >
 > *"Behold, I tell you a mystery; we will not all sleep, but we will all be changed, in a moment, in the twinkling of an eye, at the last trumpet; for the trumpet will sound, and the dead will be raised imperishable, and we will be transformed...."*
+>
 > <cite>1 Corinthians 15:51-52 (translation unknown)</cite>

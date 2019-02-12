@@ -1,9 +1,10 @@
 title: first principles
-description: reconstructive deconstruction
+subtitle: reconstructive deconstruction
+description: My personal home on the Web
 name: Daniel Vijayakumar
 
-theme: jekyll-theme-modernist
-layout: default
+remote_theme: dvijayak/jekyll-theme-dvijayak
+layout: page
 
 # Content & Editing
 exclude: ["*.sublime-*"]
