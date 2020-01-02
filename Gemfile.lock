@@ -1,7 +1,7 @@
 GIT
   remote: https://github.com/dvijayak/jekyll-theme-dvijayak
-  revision: 40adb6f1ed25797f2c92b374daa59846bda79548
-  tag: 0.1.2
+  revision: 6f7e2fe8705829e9f97ffb8b7165844a70471015
+  tag: 0.1.3
   specs:
     jekyll-theme-dvijayak (0.1.2)
       jekyll (~> 3.7)
@@ -18,7 +18,7 @@ GEM
       tzinfo (~> 1.1)
     addressable (2.5.2)
       public_suffix (>= 2.0.2, < 4.0)
-    autoprefixer-rails (6.3.7)
+    autoprefixer-rails (9.7.3)
       execjs
     coffee-script (2.4.1)
       coffee-script-source
@@ -112,8 +112,8 @@ GEM
       pathutil (~> 0.9)
       rouge (>= 1.7, < 4)
       safe_yaml (~> 1.0)
-    jekyll-autoprefixer (1.0.1)
-      autoprefixer-rails (~> 6.3.6)
+    jekyll-autoprefixer (1.0.2)
+      autoprefixer-rails (~> 9.3)
     jekyll-avatar (0.6.0)
       jekyll (~> 3.0)
     jekyll-coffeescript (1.1.1)
