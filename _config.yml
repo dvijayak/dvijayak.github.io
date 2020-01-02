@@ -15,5 +15,8 @@ collections:
     output: true
     permalink: /:collection/:name
 
+# Google Analytics
+google_analytics: UA-155253485-1
+
 plugins:
   - jekyll-sitemap
